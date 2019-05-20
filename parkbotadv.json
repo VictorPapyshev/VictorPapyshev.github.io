@@ -1,8 +1,6 @@
 {
-  "areas" : {
     "name" : "University of Louisville",
     "center_lat" : 38.216525,
     "center_lon" : -85.758059,
     "parking_zones" : "Placeholder"
-  }
 }
