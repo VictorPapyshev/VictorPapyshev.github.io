@@ -1,16 +1,8 @@
 {
-  "areas" : [
-    {
-      "name" : "University of Louisville",
-      "center_lat" : 38.216525,
-      "center_lon" : -85.758059,
-      "parking_zones" : "Placeholder"
-    },
-    {
-      "name" : "University of Cincinnati",
-      "center_lat" : 39.132092,
-      "center_lon" : -84.516507,
-      "parking_zones" : "Placeholder"
-    }
-  ]
+  "areas" : {
+    "name" : "University of Louisville",
+    "center_lat" : 38.216525,
+    "center_lon" : -85.758059,
+    "parking_zones" : "Placeholder"
+  }
 }
