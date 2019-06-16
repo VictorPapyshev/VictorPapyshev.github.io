@@ -1,4 +1,5 @@
-"state" : {
-    "occupied" : [1,2,3,4,5],
-    "unoccupied" : [6,7,8,9,10]
+{
+  "occupied" : [1,2,3,4,5],
+  "unoccupied" : [6,7,8,9,10],
+  "time" : "12:00:00PM 4/20/2019"
 }
