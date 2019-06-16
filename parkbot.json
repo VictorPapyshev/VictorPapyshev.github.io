@@ -1,35 +1,6 @@
-[
-  {
-    "name" : "",
-    "center_lat" : 0,
-    "center_lon" : 0,
-    "parking_zones" : []
-  },
-  {
-    "name" : "University of Louisville",
-    "center_lat" : 38.216525,
-    "center_lon" : -85.758059,
-    "parking_zones" : [
-      {
-        "name" : "Floyd Street Garage",
-        "center_lat" : 38.216228,
-        "center_lon" : -85.755154,
-        "max_occupancy" : 500,
-        "current_occupancy" : 344
-      },
-      {
-        "name" : "Speed School Lot",
-        "center_lat" : 38.213180,
-        "center_lon" : -85.759938,
-        "max_occupancy" : 300,
-        "current_occupancy" : 149
-      }
-    ]
-  },
-  {
-    "name" : "University of Cincinnati",
-    "center_lat" : 39.132092,
-    "center_lon" : -84.516507,
-    "parking_zones" : []
+{
+  "state" : {
+    "occupied" : [1,2,3,4,5],
+    "unoccupied" : [6,7,8,9,10]
   }
-]
+}
